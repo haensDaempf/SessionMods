@@ -31,3 +31,4 @@ _via github_
 12. Now you´re ready to upload the catalog to GitHub and share the *raw* link to the *.json in the discord
 13. Just like before, upload the file, open it in your Browser and Click *Raw* to view the raw json data. Copy the url of the json file and share it.
 > NOTE: Here is an example of a catalog url: https://raw.githubusercontent.com/rodriada000/SessionCustomMapReleases/master/DefaultSMMCatalog.json 
+> Thanks to @ReDann22 for making an awesome Video-Tutorial (url: https://www.youtube.com/watch?v=iT6R49f4LnM)
