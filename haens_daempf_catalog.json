@@ -288,6 +288,30 @@
       "PreviewImage": "https://raw.githubusercontent.com/haensDaempf/SessionMods/master/Rip-n-Dip_Nermal_Peeking_Grip/nermal_peeking.png",
       "Category": "session-griptapes",
       "UpdatedDate": "2020-04-30T15:50:53.5445255+02:00"
+    },
+    {
+      "ID": "Rip-n-Dip_Person_Time.zip",
+      "IDWithoutExtension": "Rip-n-Dip_Person_Time",
+      "Name": "Rip-n-Dip Grip Nermal Person of the Year",
+      "Description": "Cooked in 4.24.3 -Replaces \"Grip08\"",
+      "Version": 1.0,
+      "Author": "haens_daempf",
+      "DownloadLink": "rsmm://Url/https$github.com/haensDaempf/SessionMods/blob/master/Rip-n-Dip_Person_Time/Rip-n-Dip_Person_Time.zip?raw=true",
+      "PreviewImage": "https://raw.githubusercontent.com/haensDaempf/SessionMods/master/Rip-n-Dip_Person_Time/person_time.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2020-04-30T15:50:53.5445255+02:00"
+    },
+    {
+      "ID": "Rip-n-Dip_Muhammad_Ollie.zip",
+      "IDWithoutExtension": "Rip-n-Dip_Muhammad_Ollie",
+      "Name": "Rip-n-Dip Grip Mohammad Ollie",
+      "Description": "Cooked in 4.24.3 -Replaces \"Grip07\"",
+      "Version": 1.0,
+      "Author": "haens_daempf",
+      "DownloadLink": "rsmm://Url/https$github.com/haensDaempf/SessionMods/blob/master/Rip-n-Dip_Muhammad_Ollie/Rip-n-Dip_Muhammad_Ollie.zip?raw=true",
+      "PreviewImage": "https://raw.githubusercontent.com/haensDaempf/SessionMods/master/Rip-n-Dip_Muhammad_Ollie/mohammahd_ollie.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2020-04-30T15:50:53.5445255+02:00"
     }
   ]
 }
