@@ -350,14 +350,14 @@
       "UpdatedDate": "2020-05-02T16:50:53.5445255+02:00"
     },
     {
-      "ID": "Visual-Skateboards_Solvo.zip",
-      "IDWithoutExtension": "Visual-Skateboards_Solvo",
-      "Name": "Visual Skateboards - Brezinski Solvo",
+      "ID": "Visual-Skateboards_Brezinski_Salvo.zip",
+      "IDWithoutExtension": "Visual-Skateboards_Brezinski_Salvo",
+      "Name": "Visual Skateboards - Brezinski Salvo",
       "Description": "Cooked in 4.24.3 - Replaces \"ESP03\"",
       "Version": 1.0,
       "Author": "haens_daempf",
-      "DownloadLink": "rsmm://Url/https$github.com/haensDaempf/SessionMods/blob/master/Visual-Skateboards_Solvo/Visual-Skateboards_Solvo.zip?raw=true",
-      "PreviewImage": "https://raw.githubusercontent.com/haensDaempf/SessionMods/master/Visual-Skateboards_Solvo/solvo.png",
+      "DownloadLink": "rsmm://Url/https$github.com/haensDaempf/SessionMods/blob/master/Visual-Skateboards_Brezinski_Salvo/Visual-Skateboards_Brezinski_Salvo.zip?raw=true",
+      "PreviewImage": "https://raw.githubusercontent.com/haensDaempf/SessionMods/master/Visual-Skateboards_Brezinski_Salvo/salvo.png",
       "Category": "session-decks",
       "UpdatedDate": "2020-05-02T16:50:53.5445255+02:00"
     }
