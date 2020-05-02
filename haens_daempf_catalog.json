@@ -324,6 +324,42 @@
       "PreviewImage": "https://raw.githubusercontent.com/haensDaempf/SessionMods/master/Visual-Skateboards_Brezinski_Color_Block/color_block.png",
       "Category": "session-decks",
       "UpdatedDate": "2020-05-02T16:50:53.5445255+02:00"
+    },
+    {
+      "ID": "Visual-Skateboards_Christian.zip",
+      "IDWithoutExtension": "Visual-Skateboards_Christian",
+      "Name": "Visual Skateboards - Christian",
+      "Description": "Cooked in 4.24.3 - Replaces \"ESP01\"",
+      "Version": 1.0,
+      "Author": "haens_daempf",
+      "DownloadLink": "rsmm://Url/https$github.com/haensDaempf/SessionMods/blob/master/Visual-Skateboards_Christian/Visual-Skateboards_Christian.zip?raw=true",
+      "PreviewImage": "https://raw.githubusercontent.com/haensDaempf/SessionMods/master/Visual-Skateboards_Christian/christian.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-05-02T16:50:53.5445255+02:00"
+    },
+    {
+      "ID": "Visual-Skateboards_Shmatty_Blunt.zip",
+      "IDWithoutExtension": "Visual-Skateboards_Shmatty_Blunt",
+      "Name": "Visual Skateboards - Shmatty Blunt",
+      "Description": "Cooked in 4.24.3 - Replaces \"ESP02\"",
+      "Version": 1.0,
+      "Author": "haens_daempf",
+      "DownloadLink": "rsmm://Url/https$github.com/haensDaempf/SessionMods/blob/master/Visual-Skateboards_Shmatty_Blunt/Visual-Skateboards_Shmatty_Blunt.zip?raw=true",
+      "PreviewImage": "https://raw.githubusercontent.com/haensDaempf/SessionMods/master/Visual-Skateboards_Shmatty_Blunt/shmatty.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-05-02T16:50:53.5445255+02:00"
+    },
+    {
+      "ID": "Visual-Skateboards_Solvo.zip",
+      "IDWithoutExtension": "Visual-Skateboards_Solvo",
+      "Name": "Visual Skateboards - Brezinski Solvo",
+      "Description": "Cooked in 4.24.3 - Replaces \"ESP03\"",
+      "Version": 1.0,
+      "Author": "haens_daempf",
+      "DownloadLink": "rsmm://Url/https$github.com/haensDaempf/SessionMods/blob/master/Visual-Skateboards_Solvo/Visual-Skateboards_Solvo.zip?raw=true",
+      "PreviewImage": "https://raw.githubusercontent.com/haensDaempf/SessionMods/master/Visual-Skateboards_Solvo/solvo.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-05-02T16:50:53.5445255+02:00"
     }
   ]
 }
