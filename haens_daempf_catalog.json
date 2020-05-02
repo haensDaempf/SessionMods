@@ -290,28 +290,40 @@
       "UpdatedDate": "2020-04-30T15:50:53.5445255+02:00"
     },
     {
-      "ID": "Rip-n-Dip_Person_Time.zip",
-      "IDWithoutExtension": "Rip-n-Dip_Person_Time",
-      "Name": "Rip-n-Dip Grip Nermal Person of the Year",
-      "Description": "Cooked in 4.24.3 -Replaces \"Grip08\"",
+      "ID": "Visual-Skateboards_Asa_Akria.zip",
+      "IDWithoutExtension": "Visual-Skateboards_Asa_Akria",
+      "Name": "Visual Skateboards - Asa Akria",
+      "Description": "Cooked in 4.24.3 - Replaces \"FlatFace01\"",
       "Version": 1.0,
       "Author": "haens_daempf",
-      "DownloadLink": "rsmm://Url/https$github.com/haensDaempf/SessionMods/blob/master/Rip-n-Dip_Person_Time/Rip-n-Dip_Person_Time.zip?raw=true",
-      "PreviewImage": "https://raw.githubusercontent.com/haensDaempf/SessionMods/master/Rip-n-Dip_Person_Time/person_time.png",
-      "Category": "session-griptapes",
-      "UpdatedDate": "2020-04-30T15:50:53.5445255+02:00"
+      "DownloadLink": "rsmm://Url/https$github.com/haensDaempf/SessionMods/blob/master/Visual-Skateboards_Asa_Akria/Visual-Skateboards_Asa_Akria.zip?raw=true",
+      "PreviewImage": "https://raw.githubusercontent.com/haensDaempf/SessionMods/master/Visual-Skateboards_Asa_Akria/asa.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-05-02T16:50:53.5445255+02:00"
     },
     {
-      "ID": "Rip-n-Dip_Muhammad_Ollie.zip",
-      "IDWithoutExtension": "Rip-n-Dip_Muhammad_Ollie",
-      "Name": "Rip-n-Dip Grip Mohammad Ollie",
-      "Description": "Cooked in 4.24.3 -Replaces \"Grip07\"",
+      "ID": "Visual-Skateboards_Matt_Miller.zip",
+      "IDWithoutExtension": "Visual-Skateboards_Matt_Miller",
+      "Name": "Visual Skateboards - Matt Miller",
+      "Description": "Cooked in 4.24.3 - Replaces \"FlatFace03\"",
       "Version": 1.0,
       "Author": "haens_daempf",
-      "DownloadLink": "rsmm://Url/https$github.com/haensDaempf/SessionMods/blob/master/Rip-n-Dip_Muhammad_Ollie/Rip-n-Dip_Muhammad_Ollie.zip?raw=true",
-      "PreviewImage": "https://raw.githubusercontent.com/haensDaempf/SessionMods/master/Rip-n-Dip_Muhammad_Ollie/mohammahd_ollie.png",
-      "Category": "session-griptapes",
-      "UpdatedDate": "2020-04-30T15:50:53.5445255+02:00"
+      "DownloadLink": "rsmm://Url/https$github.com/haensDaempf/SessionMods/blob/master/Visual-Skateboards_Matt_Miller/Visual-Skateboards_Matt_Miller.zip?raw=true",
+      "PreviewImage": "https://raw.githubusercontent.com/haensDaempf/SessionMods/master/Visual-Skateboards_Matt_Miller/matt_miller.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-05-02T16:50:53.5445255+02:00"
+    },
+    {
+      "ID": "Visual-Skateboards_Brezinski_Color_Block.zip",
+      "IDWithoutExtension": "Visual-Skateboards_Brezinski_Color_Block",
+      "Name": "Visual Skateboards - Brezinski Color Block",
+      "Description": "Cooked in 4.24.3 - Replaces \"FlatFace02\"",
+      "Version": 1.0,
+      "Author": "haens_daempf",
+      "DownloadLink": "rsmm://Url/https$github.com/haensDaempf/SessionMods/blob/master/Visual-Skateboards_Brezinski_Color_Block/Visual-Skateboards_Brezinski_Color_Block.zip?raw=true",
+      "PreviewImage": "https://raw.githubusercontent.com/haensDaempf/SessionMods/master/Visual-Skateboards_Brezinski_Color_Block/color_block.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-05-02T16:50:53.5445255+02:00"
     }
   ]
 }
