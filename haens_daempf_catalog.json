@@ -396,6 +396,18 @@
       "PreviewImage": "https://raw.githubusercontent.com/haensDaempf/SessionMods/master/decks/jk-industries_tetsou_mutation_worn/tetsou_mutation_worn.png",
       "Category": "session-decks",
       "UpdatedDate": "2020-05-02T16:50:53.5445255+02:00"
+    },
+    {
+      "ID": "jk-industries_censorship_hoodie.zip",
+      "IDWithoutExtension": "jk-industries_censorship_hoodie",
+      "Name": "jk-industries - Censorship is weak af",
+      "Description": "Cooked in 4.24.3 - Replaces \"FlatFace Purple Hoodie\"",
+      "Version": 1.0,
+      "Author": "haens_daempf",
+      "DownloadLink": "rsmm://Url/https$github.com/haensDaempf/SessionMods/blob/master/clothing/jk-industries_censorship_hoodie/jk-industries_censorship_hoodie.zip?raw=true",
+      "PreviewImage": "https://raw.githubusercontent.com/haensDaempf/SessionMods/master/clothing/jk-industries_censorship_hoodie/censorship.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2020-05-03T16:50:53.5445255+02:00"
     }
   ]
 }
