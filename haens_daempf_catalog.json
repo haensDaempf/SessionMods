@@ -398,6 +398,18 @@
       "UpdatedDate": "2020-05-02T16:50:53.5445255+02:00"
     },
     {
+      "ID": "jk-industries_tetsou_mutation.zip",
+      "IDWithoutExtension": "jk-industries_tetsou_mutation",
+      "Name": "jk-industries - Tetsou Mutation",
+      "Description": "Cooked in 4.24.3 - Replaces \"Zero Spiral\"",
+      "Version": 1.0,
+      "Author": "haens_daempf",
+      "DownloadLink": "rsmm://Url/https$github.com/haensDaempf/SessionMods/blob/master/decks/jk-industries_tetsou_mutation/jk-industries_tetsou_mutation.zip?raw=true",
+      "PreviewImage": "https://raw.githubusercontent.com/haensDaempf/SessionMods/master/decks/jk-industries_tetsou_mutation/tetsou.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-05-03T16:50:53.5445255+02:00"
+    },
+    {
       "ID": "jk-industries_censorship_hoodie.zip",
       "IDWithoutExtension": "jk-industries_censorship_hoodie",
       "Name": "jk-industries - Censorship is weak af",
@@ -407,6 +419,54 @@
       "DownloadLink": "rsmm://Url/https$github.com/haensDaempf/SessionMods/blob/master/clothing/jk-industries_censorship_hoodie/jk-industries_censorship_hoodie.zip?raw=true",
       "PreviewImage": "https://raw.githubusercontent.com/haensDaempf/SessionMods/master/clothing/jk-industries_censorship_hoodie/censorship.png",
       "Category": "session-shirts",
+      "UpdatedDate": "2020-05-03T16:50:53.5445255+02:00"
+    },
+    {
+      "ID": "Hook-Ups_alice.zip",
+      "IDWithoutExtension": "Hook-Ups_alice",
+      "Name": "Hook-Ups - Alice",
+      "Description": "Cooked in 4.24.3",
+      "Version": 1.0,
+      "Author": "haens_daempf",
+      "DownloadLink": "rsmm://Url/https$github.com/haensDaempf/SessionMods/blob/master/wheels/Hook-Ups_alice/Hook-Ups_alice?raw=true",
+      "PreviewImage": "https://raw.githubusercontent.com/haensDaempf/SessionMods/master/wheels/Hook-Ups_alice/Hook-Ups_alice/alice.png",
+      "Category": "session-wheels",
+      "UpdatedDate": "2020-05-03T16:50:53.5445255+02:00"
+    },
+    {
+      "ID": "Hook-Ups_alice_flipped.zip",
+      "IDWithoutExtension": "Hook-Ups_alice_flipped",
+      "Name": "Hook-Ups - Alice (Flipped)",
+      "Description": "Cooked in 4.24.3",
+      "Version": 1.0,
+      "Author": "haens_daempf",
+      "DownloadLink": "rsmm://Url/https$github.com/haensDaempf/SessionMods/blob/master/wheels/Hook-Ups_alice_flipped/Hook-Ups_alice_flipped?raw=true",
+      "PreviewImage": "https://raw.githubusercontent.com/haensDaempf/SessionMods/master/wheels/Hook-Ups_alice_flipped/Hook-Ups_alice_flipped/alice_flipped.png",
+      "Category": "session-wheels",
+      "UpdatedDate": "2020-05-03T16:50:53.5445255+02:00"
+    },
+    {
+      "ID": "Hook-Ups_barrel_of_a_gun.zip",
+      "IDWithoutExtension": "Hook-Ups_barrel_of_a_gun",
+      "Name": "Hook-Ups - Barrel of a gun",
+      "Description": "Cooked in 4.24.3",
+      "Version": 1.0,
+      "Author": "haens_daempf",
+      "DownloadLink": "rsmm://Url/https$github.com/haensDaempf/SessionMods/blob/master/wheels/Hook-Ups_barrel_of_a_gun/Hook-Ups_barrel_of_a_gun?raw=true",
+      "PreviewImage": "https://raw.githubusercontent.com/haensDaempf/SessionMods/master/wheels/Hook-Hook-Ups_barrel_of_a_gun/Hook-Ups_barrel_of_a_gun/barrel.png",
+      "Category": "session-wheels",
+      "UpdatedDate": "2020-05-03T16:50:53.5445255+02:00"
+    },
+    {
+      "ID": "Hook-Ups_barrel_of_a_gun_flipped.zip",
+      "IDWithoutExtension": "Hook-Ups_barrel_of_a_gun_flipped",
+      "Name": "Hook-Ups - Barrel of a gun (Flipped)",
+      "Description": "Cooked in 4.24.3",
+      "Version": 1.0,
+      "Author": "haens_daempf",
+      "DownloadLink": "rsmm://Url/https$github.com/haensDaempf/SessionMods/blob/master/wheels/Hook-Ups_barrel_of_a_gun_flipped/Hook-Ups_barrel_of_a_gun_flipped?raw=true",
+      "PreviewImage": "https://raw.githubusercontent.com/haensDaempf/SessionMods/master/wheels/Hook-Hook-Ups_barrel_of_a_gun_flipped/Hook-Ups_barrel_of_a_gun_flipped/barrel_flipped.png",
+      "Category": "session-wheels",
       "UpdatedDate": "2020-05-03T16:50:53.5445255+02:00"
     }
   ]
