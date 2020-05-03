@@ -272,10 +272,34 @@
       "Description": "Cooked in 4.24.3 -Replaces \"Grip03\"",
       "Version": 1.0,
       "Author": "haens_daempf",
-      "DownloadLink": "rsmm://Url/https$github.com/haensDaempf/SessionMods/blob/master/griptape/Rip-n-Dip_Biggest_Nug_Grip/Rip-n-Dip_Biggest_Nug_Grip.zip?raw=true",
-      "PreviewImage": "https://raw.githubusercontent.com/haensDaempf/SessionMods/master/griptape/Rip-n-Dip_Biggest_Pussy_Grip/ripndip_nug.png",
+      "DownloadLink": "rsmm://Url/https$github.com/haensDaempf/SessionMods/blob/master/griptape/Rip-n-Dip_Nermal_Nug_Grip/Rip-n-Dip_Nermal_Nug_Grip.zip?raw=true",
+      "PreviewImage": "https://raw.githubusercontent.com/haensDaempf/SessionMods/master/griptape/Rip-n-Dip_Nermal_Nug_Grip/ripndip_nug.png",
       "Category": "session-griptapes",
-      "UpdatedDate": "2020-05-03T20:47:07.8665133+02:00"
+      "UpdatedDate": "2020-05-03T20:57:07.8665133+02:00"
+    },
+    {
+      "ID": "Rip-n-Dip_Muhammad_Ollie.zip",
+      "IDWithoutExtension": "Rip-n-Dip_Muhammad_Ollie",
+      "Name": "Rip-n-Dip Grip Mohammad Ollie",
+      "Description": "Cooked in 4.24.3 -Replaces \"Grip07\"",
+      "Version": 1.0,
+      "Author": "haens_daempf",
+      "DownloadLink": "rsmm://Url/https$github.com/haensDaempf/SessionMods/blob/master/griptape/Rip-n-Dip_Muhammad_Ollie/Rip-n-Dip_Muhammad_Ollie.zip?raw=true",
+      "PreviewImage": "https://raw.githubusercontent.com/haensDaempf/SessionMods/master/griptape/Rip-n-Dip_Muhammad_Ollie/mohammahd_ollie.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2020-05-03T20:57:07.8665133+02:00"
+    },
+    {
+      "ID": "Rip-n-Dip_Person_Time.zip",
+      "IDWithoutExtension": "Rip-n-Dip_Person_Time",
+      "Name": "Rip-n-Dip Grip Nermal Person of the Year",
+      "Description": "Cooked in 4.24.3 -Replaces \"Grip08\"",
+      "Version": 1.0,
+      "Author": "haens_daempf",
+      "DownloadLink": "rsmm://Url/https$github.com/haensDaempf/SessionMods/blob/master/griptape/Rip-n-Dip_Person_Time/Rip-n-Dip_Person_Time.zip?raw=true",
+      "PreviewImage": "https://raw.githubusercontent.com/haensDaempf/SessionMods/master/griptape/Rip-n-Dip_Person_Time/person_time.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2020-05-03T20:57:07.8665133+02:00"
     },
     {
       "ID": "Rip-n-Dip_Nermal_Peeking_Grip.zip",
