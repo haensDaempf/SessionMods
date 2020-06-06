@@ -528,6 +528,18 @@
       "PreviewImage": "https://raw.githubusercontent.com/haensDaempf/SessionMods/master/decks/Hook-ups_Panties_School/panties_school.png",
       "Category": "session-decks",
       "UpdatedDate": "2020-05-03T21:47:07.8665133+02:00"
+    },
+    {
+      "ID": "puma_basket_blue.zip",
+      "IDWithoutExtension": "puma_basket_blue",
+      "Name": "Puma Basket Blue",
+      "Description": "Cooked in 4.24.3 -Replaces Default Cupsole Shoe",
+      "Version": 1.0,
+      "Author": "haens_daempf",
+      "DownloadLink": "rsmm://Url/https$github.com/haensDaempf/SessionMods/blob/master/clothing/puma_basket_blue/puma_basket_blue.zip?raw=true",
+      "PreviewImage": "https://raw.githubusercontent.com/haensDaempf/SessionMods/master/clothing/puma_basket_blue/puma_basket_blue.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-06-06T21:47:07.8665133+02:00"
     }
   ]
 }
