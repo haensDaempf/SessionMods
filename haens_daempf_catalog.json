@@ -557,13 +557,13 @@
       "ID": "puma_basket_original.zip",
       "IDWithoutExtension": "puma_basket_original",
       "Name": "Puma Basket Original",
-      "Description": "source: https://sketchfab.com/zdenkoroman\nCooked in 4.24.3 -Replaces Default Cupsole Shoe",
-      "Version": 1.0,
+      "Description": "compatible with version 0.0.0.7",
+      "Version": 2.0,
       "Author": "haens_daempf",
-      "DownloadLink": "rsmm://Url/https$github.com/haensDaempf/SessionMods/blob/master/clothing/puma_basket_original/puma_basket_original.zip?raw=true",
+      "DownloadLink": "rsmm://GDrive/1WnHJfh1czkaZFpAo-iltNAkzTE4PC4dw",
       "PreviewImage": "https://raw.githubusercontent.com/haensDaempf/SessionMods/master/clothing/puma_basket_original/puma_basket_original.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2021-02-10T10:13:07.8665133+02:00"
+      "UpdatedDate": "2021-10-01T22:00:00Z"
     }
   ]
 }
